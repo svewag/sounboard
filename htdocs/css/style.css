@@ -1,13 +1,14 @@
-body {background:url("../images/bg.png"); margin:0; padding:0;}
+body {background:url("../images/bg.png"); background-repeat:no-repeat; margin:0; padding:0;}
 .soundBtn {background-image:url("../images/knoeppe.png"); position:absolute; cursor:pointer;}
-.soundBtn:hover {background-image:url("../images/knoeppe_hover.png");}
+.soundBtn:active {background-image:url("../images/knoeppe_hover.png");}
 
 .btn00 {background-position: -100px -288px; width:300px; height:100px; top:288px; left:100px;}
 .btn01 {background-position: -70px -435px; width:380px; height:165px; top:435px; left:70px;}
 .btn02 {background-position: -70px -620px; width:325px; height:110px; top:620px; left:70px;}
 
-.btn10 {background-position: -595px -288px; width:532px; height:117px; top:288px; left:595px;}
-.btn11 {background-position: -595px -435px; width:288px; height:110px; top:435px; left:595px;}
-.btn12 {background-position: -595px -565px; width:326px; height:105px; top:565px; left:595px;}
-.btn13 {background-position: -595px -670px; width:201px; height:235px; top:670px; left:595px;}
+.btn10 {background-position: -600px -160px; width:315px; height:108px; top:160px; left:600px;}
+.btn11 {background-position: -595px -288px; width:532px; height:117px; top:288px; left:595px;}
+.btn12 {background-position: -595px -435px; width:288px; height:110px; top:435px; left:595px;}
+.btn13 {background-position: -595px -565px; width:326px; height:105px; top:565px; left:595px;}
+.btn14 {background-position: -595px -670px; width:201px; height:235px; top:670px; left:595px;}
 .btn20 {background-position: -1265px -288px; width:509px; height:352px; top:288px; left:1265px;}

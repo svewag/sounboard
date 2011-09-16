@@ -1,3 +1,6 @@
+var bg = new Image();
+bg.src = "images/knoeppe_hover.png";
+
 $(document).ready(function(){
 	$(".qKnopp").live("click", function(){
 		var $ele = $(this);
